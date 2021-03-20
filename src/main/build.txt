@@ -1,0 +1,23 @@
+arrayIdentifier.java boolIdentifier.java
+byteIdentifier.java
+charIdentifier.java
+doubleIdentifier.java
+enumIdentifier.java
+fileReader.java
+floatIdentifier.java
+functionIdentifier.java
+identifier.java
+identifierTable.java
+intIdentifier.java
+keyword.java
+keywordTable.java
+longIdentifier.java
+operator.java
+operatorTable.java
+program.java
+realIdentifier.java
+shortIdentifier.java
+stringIdentifier.java
+struct.java
+symbolIdentifier.java
+tokenIdentifier.java
